@@ -10,5 +10,6 @@
   * Image Steganography online: [Useful tool](http://incoherency.co.uk/image-steganography/#unhide)  
 
 # Note:  
-  * the sequence of RGB color is *BGR* ... 我卡在這裡好久，原本用RGB的順序串binary string，弄半天找不到flag，原因待補*
+  * the sequence of RGB color is *BGR* ... 我卡在這裡好久，原本用RGB的順序串binary string，弄半天找不到flag
+    * Read the wiki of BMP file format: [Pixel format section](https://en.wikipedia.org/wiki/BMP_file_format)
   * [Someone else](http://mfridman.com/2017/04/14/pico2017-little-schoolbus.html)  
